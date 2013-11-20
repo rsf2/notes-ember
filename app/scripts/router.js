@@ -1,0 +1,3 @@
+NotesEmber.Router.map(function () {
+  
+});
